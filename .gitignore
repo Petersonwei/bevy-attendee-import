@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Playwright browser profile (IMPORTANT for your case)
+.be vy-browser-profile/
+~/.bevy-browser-profile/
+
+# OS files
+.DS_Store
